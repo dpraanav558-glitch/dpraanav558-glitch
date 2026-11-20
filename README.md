@@ -1,133 +1,89 @@
-<div align="center">
+<a href="https://ingraph.space">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-light.svg" width="100%" alt="Pranav Dhabale, Founder and Lead Architect of inGraph. Turning unstructured financial documents into living, queryable knowledge graphs." />
+  </picture>
+</a>
 
-  <!-- Header Banner / Title -->
-  <br />
-  <h1>Pranav Dhabale</h1>
-  <p>
-    <strong>Founder & Lead Architect · <a href="https://ingraph.space">inGraph</a></strong>
-    <br />
-    <em>Fintech Researcher · Systems Architect · Knowledge Graph Engineer</em>
-  </p>
+<p align="center">
+  <a href="https://ingraph.space"><img src="https://img.shields.io/badge/ingraph.space-live_platform-E10600?style=flat-square&labelColor=1F1F23" alt="inGraph live platform" /></a>
+  <a href="https://github.com/dpraanav558-glitch/ingraph-releases/releases"><img src="https://img.shields.io/badge/inGraph_Desktop-v0.1_preview-00C26A?style=flat-square&labelColor=1F1F23&logo=tauri&logoColor=white" alt="Download inGraph Desktop" /></a>
+  <a href="https://www.linkedin.com/in/pranav-dhabale/"><img src="https://img.shields.io/badge/LinkedIn-pranav--dhabale-0A66C2?style=flat-square&labelColor=1F1F23&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dpraanav558@gmail.com"><img src="https://img.shields.io/badge/Email-dpraanav558@gmail.com-6E6A73?style=flat-square&labelColor=1F1F23&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-  <!-- Dynamic Location & Status Badges -->
-  <p>
-    <a href="https://ingraph.space">
-      <img src="https://img.shields.io/badge/Live_Platform-ingraph.space-E10600?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
-    </a>
-    <a href="https://www.linkedin.com/in/pranav-dhabale/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dpraanav558@gmail.com">
-      <img src="https://img.shields.io/badge/Email-dpraanav558%40gmail.com-1F1F23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/dpraanav558-glitch/InGraph">
-      <img src="https://img.shields.io/badge/Repo-inGraph.monorepo-00E676?style=for-the-badge&logo=github&logoColor=black" alt="inGraph Repo" />
-    </a>
-  </p>
+<br />
 
-  <p>
-    <code>📍 Mumbai, India</code> &nbsp;•&nbsp; 
-    <code>⚡ Dual-Engine Graph Intelligence</code> &nbsp;•&nbsp; 
-    <code>🔐 Local-First & Air-Gapped Systems</code>
-  </p>
+## About
 
-</div>
+I'm a fintech researcher and systems engineer. I build **knowledge graphs**, **graph-augmented retrieval (GraphRAG)** and **high-throughput financial data structures**.
 
----
+I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mitraa***, a guide to institutional banking. My work joins finance knowledge with low-level systems design:
 
-### 🏛️ Executive Summary
+- **From chaos to graphs.** Turning 10-K filings, loan covenants and pitch decks into graphs you can query.
+- **Cloud and local, side by side.** One engine that runs as a multi-tenant cloud service and as an air-gapped desktop app.
+- **Trust you can check.** Hardware-bound AES-256 vaults and offline Ed25519 licensing.
 
-I am a fintech researcher and systems engineer focused on **Knowledge Graph Engineering**, **Graph-Augmented Retrieval (GraphRAG)**, and **high-throughput financial data structures**. 
+<br />
 
-An alumnus of **Sydenham College of Commerce and Economics** and author of the institutional banking guide ***Arth Mitraa***, my work bridges deep financial domain expertise with low-level systems architecture:
-* **Transforming Chaos to Graphs**: Inverting unstructured 10-K filings, loan covenants, and pitch decks into queryable, interconnected graph topologies.
-* **Hybrid Cloud + Local Architecture**: Engineering parallel execution engines that deliver cloud-native multi-tenant scale alongside air-gapped, zero-cloud desktop terminals.
-* **Cryptographic Trust**: Building hardware-bound AES-256 lockers and offline Ed25519 asymmetric licensing protocols.
-
----
-
-### 🚀 Flagship Architecture & Projects
+## What I'm building
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://ingraph.space">inGraph — Dual-Engine Financial Intelligence</a></h3>
-      <p><em>Enterprise & Desktop Knowledge Graph platform for complex financial disclosures, holding company webs, and transaction diligence.</em></p>
+      <h3><a href="https://ingraph.space">inGraph</a></h3>
+      <sub>DUAL-ENGINE FINANCIAL INTELLIGENCE</sub>
+      <p>A knowledge graph platform, in the cloud and on the desktop, for financial disclosures, holding-company webs and transaction diligence.</p>
       <ul>
-        <li><b>Dual-Store Core</b>: Cloud PostgreSQL (Apache AGE) + Embedded C++ Kùzu Graph DB & DuckDB.</li>
-        <li><b>Offline Licensing</b>: Asymmetric Ed25519 digital signatures with OS-level <code>ingraph://</code> deep-link protocol.</li>
-        <li><b>Hardware Locker</b>: Device-fingerprinted AES-256-GCM vault bound to machine GUID.</li>
-        <li><b>Live SaaS</b>: <a href="https://ingraph.space">ingraph.space</a></li>
+        <li><b>Dual-store core.</b> Cloud PostgreSQL with Apache AGE, plus embedded Kùzu and DuckDB on the desktop.</li>
+        <li><b>Offline licensing.</b> Ed25519 signatures with an <code>ingraph://</code> deep link.</li>
+        <li><b>Hardware locker.</b> AES-256-GCM vault bound to the machine.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kùzu_DB-E10600?style=flat-square" />
-        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+        <a href="https://ingraph.space">Open the platform</a> ·
+        <a href="https://github.com/dpraanav558-glitch/ingraph-releases/releases">Download the desktop preview</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/dpraanav558-glitch/InGraph">FinGraph — Startup & Venture Graph</a></h3>
-      <p><em>Visual intelligence platform mapping shareholder structures, founder-investor ties, and private market syndicates.</em></p>
+      <h3>FinGraph</h3>
+      <sub>STARTUP AND VENTURE GRAPH</sub>
+      <p>Maps shareholder structures, founder–investor ties and private-market syndicates on one visual canvas.</p>
       <ul>
-        <li><b>Graph Engine</b>: Multi-hop Cypher queries exploring hidden corporate cross-holdings and risk contagion.</li>
-        <li><b>Docling Ingestion</b>: Multi-modal OCR and layout parsing for complex pitch decks and capitalization tables.</li>
-        <li><b>Interactive UI</b>: Spatial canvas with real-time radial & hierarchical layout generators.</li>
+        <li><b>Graph engine.</b> Multi-hop Cypher queries that surface hidden cross-holdings and contagion risk.</li>
+        <li><b>Document intake.</b> Docling OCR and layout parsing for pitch decks and cap tables.</li>
+        <li><b>Interactive canvas.</b> Live radial and hierarchical layouts.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-        <img src="https://img.shields.io/badge/IBM_Docling-052FAD?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
-      </p>
+      <p><sub>Neo4j · IBM Docling · Gemini 2.5 · React Flow</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### 🛠️ Technical Stack & Architectural Tooling
+## Stack
 
-<div align="center">
+> **How I build.** I'm a systems person first and a vibe coder by method. I think in architecture: how the data flows, where it's stored, what has to be trusted and why. Then I build it hand in hand with AI coding tools. I don't write every line from memory. I design the system, make the calls and make sure the pieces fit. The tools below are what my systems run on.
 
-| Domain | Technologies, Runtimes & Engines |
+| Area | Tools |
 | :--- | :--- |
-| **Graph Intelligence & Analytics** | `Apache AGE`, `Kùzu Graph DB`, `DuckDB`, `Neo4j`, `Redis`, `PostgreSQL (Supabase)` |
-| **AI, Extraction & GraphRAG** | `Google Gemini 2.5`, `LangChain`, `IBM Docling`, `pdfplumber`, `GraphRAG`, `Pydantic` |
-| **Core Systems & Languages** | `Python 3.11+`, `TypeScript`, `Rust (Tauri v2 Host)`, `SQL`, `OpenCypher` |
-| **Spatial Frontend & Visualization** | `React 18`, `Vite`, `React Flow (@xyflow/react)`, `TailwindCSS`, `Framer Motion` |
-| **Cloud & Infrastructure** | `Vercel (Frontend & CDN)`, `Railway (Docker Container)`, `Supabase S3`, `Upstash Redis` |
-| **Security & Cryptography** | `Ed25519 Asymmetric Signatures`, `AES-256-GCM Hardware Locker`, `JWT / Multi-Tenant Auth` |
+| **Graphs and data** | Apache AGE · Kùzu · DuckDB · Neo4j · PostgreSQL (Supabase) · Redis |
+| **AI and extraction** | Gemini 2.5 · LangChain · IBM Docling · pdfplumber · GraphRAG · Pydantic |
+| **Languages** | Python 3.11+ · TypeScript · Rust (Tauri v2) · SQL · openCypher |
+| **Frontend** | React 18 · Vite · React Flow · Tailwind CSS · Framer Motion |
+| **Infrastructure** | Vercel · Railway (Docker) · Supabase Storage · Upstash Redis |
+| **Security** | Ed25519 signatures · AES-256-GCM · JWT multi-tenant auth |
 
-</div>
+<br />
 
----
+## Writing and research
 
-### 📚 Authored Works & Research
+- ***Arth Mitraa*** — a handbook on Indian institutional banking: operations, corporate credit appraisal and statutory compliance.
+- **Supply Chain Fragility and Holding Company Topologies** — published in *The Sydenhamite*. How debt dominoes and parent–subsidiary contagion spread.
+- **Deep Learning for PCG Signal Classification** — convolutional networks that find anomalies in heart-sound (phonocardiogram) recordings.
 
-* **📖 "Arth Mitraa"**: Authored handbook detailing Indian institutional banking operations, corporate credit appraisal mechanics, and systemic statutory compliance structures.
-* **🔬 "Supply Chain Fragility & Holding Company Topologies"**: Research published in *The Sydenhamite* investigating debt domino effects and parent-subsidiary contagion risks.
-* **🧠 "Deep Learning for PCG Signal Classification"**: Applied convolutional neural architectures to phonocardiogram acoustic data for anomaly isolation.
+<br />
 
----
-
-### 📈 GitHub Analytics & Engineering Velocity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dpraanav558-glitch&show_icons=true&theme=tokyonight&bg_color=0b0b0f&title_color=e10600&text_color=e5e1e4&icon_color=00e676&border_color=2a2a2e&hide_border=false" alt="Pranav's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpraanav558-glitch&layout=compact&theme=tokyonight&bg_color=0b0b0f&title_color=e10600&text_color=e5e1e4&border_color=2a2a2e&hide_border=false" alt="Top Languages" height="165" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpraanav558-glitch&theme=tokyonight&background=0b0b0f&ring=e10600&fire=e10600&currStreakLabel=00e676&border=2a2a2e" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>Designed & Architected by <strong>Pranav Dhabale</strong> • <em>Transforming unstructured financial chaos into living graph intelligence.</em></sub>
-</div>
+<p align="center">
+  <sub>Mumbai, India · <a href="https://ingraph.space">ingraph.space</a> · <a href="mailto:dpraanav558@gmail.com">dpraanav558@gmail.com</a></sub>
+</p>
