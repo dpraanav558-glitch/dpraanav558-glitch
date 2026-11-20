@@ -17,7 +17,7 @@
 
 ## About
 
-I'm a fintech researcher and systems engineer. I build **knowledge graphs**, **graph-augmented retrieval (GraphRAG)** and **high-throughput financial data structures**.
+I'm a fintech researcher and systems engineer. I build **knowledge graphs**, **graph-augmented retrieval (GraphRAG)** and **high-throughput financial data structures**. I also make **internal tools for companies**.
 
 I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mitraa***, a guide to institutional banking. My work joins finance knowledge with low-level systems design:
 
@@ -46,15 +46,14 @@ I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>FinGraph</h3>
-      <sub>STARTUP AND VENTURE GRAPH</sub>
-      <p>Maps shareholder structures, founder–investor ties and private-market syndicates on one visual canvas.</p>
+      <h3>Internal tools for companies</h3>
+      <sub>BUILT AROUND HOW A TEAM REALLY WORKS</sub>
+      <p>Alongside inGraph, I design and build internal tools for companies: the systems a team uses every day behind the scenes.</p>
       <ul>
-        <li><b>Graph engine.</b> Multi-hop Cypher queries that surface hidden cross-holdings and contagion risk.</li>
-        <li><b>Document intake.</b> Docling OCR and layout parsing for pitch decks and cap tables.</li>
-        <li><b>Interactive canvas.</b> Live radial and hierarchical layouts.</li>
+        <li><b>System first.</b> I map how the work and the data flow before drawing a single screen.</li>
+        <li><b>Made to fit.</b> Shaped around the team's own process, data and rules, not a template.</li>
+        <li><b>Quick to ship.</b> Built hand in hand with AI coding tools.</li>
       </ul>
-      <p><sub>Neo4j · IBM Docling · Gemini 2.5 · React Flow</sub></p>
     </td>
   </tr>
 </table>
