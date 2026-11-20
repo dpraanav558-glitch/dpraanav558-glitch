@@ -67,7 +67,8 @@ I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mi
 | Area | Tools |
 | :--- | :--- |
 | **Graphs and data** | Apache AGE · Kùzu · DuckDB · Neo4j · PostgreSQL (Supabase) · Redis |
-| **AI and extraction** | Gemini 2.5 · LangChain · IBM Docling · pdfplumber · GraphRAG · Pydantic |
+| **AI models** | Gemini Hydrogen series · Claude Haiku and Opus series · GPT Luna and Terra series · Qwen series |
+| **AI and extraction** | LangChain · IBM Docling · pdfplumber · GraphRAG · Pydantic |
 | **Languages** | Python 3.11+ · TypeScript · Rust (Tauri v2) · SQL · openCypher |
 | **Frontend** | React 18 · Vite · React Flow · Tailwind CSS · Framer Motion |
 | **Infrastructure** | Vercel · Railway (Docker) · Supabase Storage · Upstash Redis |
