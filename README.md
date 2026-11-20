@@ -1,13 +1,13 @@
-<a href="https://ingraph.space">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
     <img src="assets/banner-light.svg" width="100%" alt="Pranav Dhabale, Founder and Lead Architect of inGraph. Turning unstructured financial documents into living, queryable knowledge graphs." />
   </picture>
-</a>
+</p>
 
 <p align="center">
-  <a href="https://ingraph.space"><img src="https://img.shields.io/badge/ingraph.space-live_platform-E10600?style=flat-square&labelColor=1F1F23" alt="inGraph live platform" /></a>
+  <img src="https://img.shields.io/badge/ingraph.space-under_maintenance-F5A524?style=flat-square&labelColor=1F1F23" alt="ingraph.space is under maintenance" />
   <a href="https://github.com/dpraanav558-glitch/ingraph-releases/releases"><img src="https://img.shields.io/badge/inGraph_Desktop-v0.1_preview-00C26A?style=flat-square&labelColor=1F1F23&logo=tauri&logoColor=white" alt="Download inGraph Desktop" /></a>
   <a href="https://www.linkedin.com/in/pranav-dhabale/"><img src="https://img.shields.io/badge/LinkedIn-pranav--dhabale-0A66C2?style=flat-square&labelColor=1F1F23&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dpraanav558@gmail.com"><img src="https://img.shields.io/badge/Email-dpraanav558@gmail.com-6E6A73?style=flat-square&labelColor=1F1F23&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -32,7 +32,7 @@ I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://ingraph.space">inGraph</a></h3>
+      <h3>inGraph</h3>
       <sub>DUAL-ENGINE FINANCIAL INTELLIGENCE</sub>
       <p>A knowledge graph platform, in the cloud and on the desktop, for financial disclosures, holding-company webs and transaction diligence.</p>
       <ul>
@@ -41,7 +41,7 @@ I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mi
         <li><b>Hardware locker.</b> AES-256-GCM vault bound to the machine.</li>
       </ul>
       <p>
-        <a href="https://ingraph.space">Open the platform</a> ·
+        🛠️ <b>The web platform is under maintenance for now.</b><br />
         <a href="https://github.com/dpraanav558-glitch/ingraph-releases/releases">Download the desktop preview</a>
       </p>
     </td>
@@ -85,5 +85,5 @@ I studied at **Sydenham College of Commerce and Economics** and wrote ***Arth Mi
 <br />
 
 <p align="center">
-  <sub>Mumbai, India · <a href="https://ingraph.space">ingraph.space</a> · <a href="mailto:dpraanav558@gmail.com">dpraanav558@gmail.com</a></sub>
+  <sub>Mumbai, India · ingraph.space (under maintenance) · <a href="mailto:dpraanav558@gmail.com">dpraanav558@gmail.com</a></sub>
 </p>
